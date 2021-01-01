@@ -1,0 +1,636 @@
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\netstandard.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.AppContext.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Collections.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.ComponentModel.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Console.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Data.Common.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Globalization.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Linq.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Ping.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Requests.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Security.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.ObjectModel.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Reflection.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Resources.Writer.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.Principal.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Security.SecureString.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Threading.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Threading.Thread.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Threading.Timer.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_Project.Form1.resources
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\MM_EDI.exe.config
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\MM_EDI.exe
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\MM_EDI.pdb
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.exe.config
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.exe
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\obj\Debug\MM_EDI.pdb
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\WinSCP.exe
+C:\Users\Administrator\Desktop\MM_Project\MM_Project\bin\Debug\WinSCPnet.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\WinSCP.exe
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\MM_EDI.exe.config
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\MM_EDI.exe
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\MM_EDI.pdb
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\netstandard.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.AppContext.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Collections.Concurrent.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Collections.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Collections.NonGeneric.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Collections.Specialized.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.ComponentModel.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.ComponentModel.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Console.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Data.Common.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Contracts.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Debug.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Process.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tools.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tracing.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Drawing.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Dynamic.Runtime.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Globalization.Calendars.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Globalization.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Globalization.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.Compression.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.IsolatedStorage.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.Pipes.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Linq.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Linq.Expressions.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Linq.Parallel.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Linq.Queryable.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Http.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.NameResolution.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.NetworkInformation.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Ping.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Requests.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Security.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Sockets.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.Client.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.ObjectModel.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Reflection.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Reflection.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Reflection.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Resources.Reader.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Resources.ResourceManager.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Resources.Writer.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.Handles.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.Numerics.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.Claims.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.Principal.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Security.SecureString.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Text.RegularExpressions.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Threading.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Threading.Overlapped.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Threading.Thread.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Threading.ThreadPool.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Threading.Timer.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.ValueTuple.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Xml.ReaderWriter.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Xml.XDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Xml.XmlDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Xml.XmlSerializer.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\RestSharp.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Buffers.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Memory.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\WinSCPnet.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\RestSharp.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Buffers.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Memory.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.csprojAssemblyReference.cache
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.exe.config
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_Project.Form1.resources
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.Properties.Resources.resources
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.GenerateResource.cache
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CoreCompileInputs.cache
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CopyComplete
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.exe
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.pdb
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\dje\MM_EDI.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_Project.Form1.dje.resources
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\dje\MM_EDI.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Data.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Data.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\obj\Debug\MM_EDI.exe.licenses
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar2.dll
+E:\INFOR9 - WMS\Code_GLC\MM\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar2.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.csprojAssemblyReference.cache
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.exe.config
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_Project.Form1.resources
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.Properties.Resources.resources
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_Project.Form1.dje.resources
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.GenerateResource.cache
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.exe.licenses
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CoreCompileInputs.cache
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.exe
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.pdb
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\WinSCP.exe
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\MM_EDI.exe.config
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\MM_EDI.exe
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\MM_EDI.pdb
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\dje\MM_EDI.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\netstandard.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.AppContext.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Collections.Concurrent.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Collections.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Collections.NonGeneric.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Collections.Specialized.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.ComponentModel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.ComponentModel.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Console.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Data.Common.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Contracts.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Debug.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Process.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tools.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tracing.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Drawing.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Dynamic.Runtime.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Globalization.Calendars.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Globalization.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Globalization.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.Compression.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.IsolatedStorage.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.Pipes.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Linq.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Linq.Expressions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Linq.Parallel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Linq.Queryable.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Http.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.NameResolution.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.NetworkInformation.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Ping.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Requests.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Security.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Sockets.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.Client.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.ObjectModel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Reflection.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Reflection.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Reflection.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Resources.Reader.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Resources.ResourceManager.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Resources.Writer.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.Handles.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.Numerics.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.Claims.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.Principal.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Security.SecureString.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Text.RegularExpressions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Threading.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Threading.Overlapped.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Threading.Thread.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Threading.ThreadPool.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Threading.Timer.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.ValueTuple.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Xml.ReaderWriter.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Xml.XDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Xml.XmlDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Xml.XmlSerializer.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar2.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Data.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\RestSharp.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Buffers.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Memory.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\WinSCPnet.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar2.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Data.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\RestSharp.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Buffers.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Memory.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\dje\MM_EDI.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCT\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CopyComplete
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\WinSCP.exe
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\MM_EDI.exe.config
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\MM_EDI.exe
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\MM_EDI.pdb
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\dje\MM_EDI.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\netstandard.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.AppContext.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Collections.Concurrent.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Collections.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Collections.NonGeneric.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Collections.Specialized.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.ComponentModel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.ComponentModel.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Console.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Data.Common.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Contracts.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Debug.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Process.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tools.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Diagnostics.Tracing.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Drawing.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Dynamic.Runtime.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Globalization.Calendars.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Globalization.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Globalization.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.Compression.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.IsolatedStorage.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.Pipes.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Linq.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Linq.Expressions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Linq.Parallel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Linq.Queryable.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Http.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.NameResolution.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.NetworkInformation.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Ping.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Requests.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Security.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Sockets.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.Client.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.WebSockets.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.ObjectModel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Reflection.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Reflection.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Reflection.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Resources.Reader.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Resources.ResourceManager.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Resources.Writer.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.Handles.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.Numerics.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.Claims.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.Principal.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Security.SecureString.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Text.RegularExpressions.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Threading.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Threading.Overlapped.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Threading.Thread.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Threading.ThreadPool.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Threading.Timer.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.ValueTuple.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Xml.ReaderWriter.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Xml.XDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Xml.XmlDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Xml.XmlSerializer.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar2.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Data.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\RestSharp.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Buffers.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Memory.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\WinSCPnet.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevComponents.DotNetBar2.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Data.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\Newtonsoft.Json.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\RestSharp.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Buffers.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Memory.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\System.Net.Http.Formatting.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.exe.config
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_Project.Form1.resources
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.Properties.Resources.resources
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_Project.Form1.dje.resources
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.GenerateResource.cache
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.exe.licenses
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CoreCompileInputs.cache
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\dje\MM_EDI.resources.dll
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.csproj.CopyComplete
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.exe
+E:\INFOR9 - WMS\Code_GLC\MM_PRODUCTION\MM_Project\MM_Project\obj\Debug\MM_EDI.pdb
